@@ -1,6 +1,6 @@
 # Smart Document Scanner
 
-**Automated perspective correction & edge detection tool** — turns skewed, carelessly
+**Automated perspective correction & edge  detection tool** — turns skewed, carelessly
 taken phone photos of documents into flat, readable, scanner-like images using
 classical computer vision (no AI models).
 
