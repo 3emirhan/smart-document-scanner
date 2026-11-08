@@ -38,7 +38,7 @@ the corners are scaled back and the warp is applied to the full-resolution image
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/smart-document-scanner.git
+git clone https://github.com/3emirhan/smart-document-scanner.git
 cd smart-document-scanner
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
